@@ -8,9 +8,9 @@
 - Скачиваешь: https://github.com/simple-2ch/thread/raw/main/Files/WindowsUpdate.zip
 - Извлекаешь содержимое архива в корень диска С или любую папку путь к которой не содержит пробелов.
 - В извлечённой папке WindowsUpdate запускаешь create-sslocal.bat от имени Администратора.
-- В окне NSSM service installer указываешь путь к файлу ssserver.exe и жмёшь Install service
+- В окне NSSM service installer указываешь путь к файлу ssserver.exe и жмёшь Install service <br>
 ![alt text](https://github.com/simple-2ch/thread/blob/main/Files/img/wu1.jpg?raw=true)
-- Если всё успешно, в консоле получаешь такой вывод:
+- Если всё успешно, в консоле получаешь такой вывод: <br>
 ![alt text](https://github.com/simple-2ch/thread/blob/main/Files/img/wu2.jpg?raw=true)
 - Скачиваешь: https://github.com/simple-2ch/thread/raw/main/Files/ShadowsocksV2Ray.zip
 - Извлекаешь содержимое архива, запускаешь Shadowsocks.exe, открывшееся окно закрываешь.
