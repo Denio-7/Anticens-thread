@@ -42,7 +42,8 @@ https://github.com/simple-2ch/thread/blob/main/alternatives.md
 [b]- Всё равно хочу свой VPN с блэкджеком, шлюхами и созданием в два клика мышкой.[/b]
 Простая инструкция без пердольства: https://github.com/simple-2ch/thread/blob/main/deploy.md
 
-P.S. Хочется потратить очень много времени, усердно пердолясь в облаках с консолью линукса? Тебе к анальникам в: /freedom/
+[b]- Обход блокировок обновлений Windows без VPN.[/b]
+https://github.com/simple-2ch/thread/blob/main/winupdate.md
 
 Это шапка для переката: https://github.com/simple-2ch/thread/blob/main/head.txt
 
