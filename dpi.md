@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Простая настройка обхода DPI**
  
 GoodbyeDPI для Windows: <br>
-- Скачиваешь: https://cdn-topersoft.nl/download/launchergdpi.php или https://topersoft.com/programs/launchergdpi
+- Скачиваешь: https://topersoft.com/programs/launchergdpi
 - Извлекаешь куда-нибудь содержимое архива, запускаешь Launcher for GoodbyeDPI.exe из папки x86_64.
 - Нажимаешь Быстрый шаблон настроек: 6.
 - Ставишь галочку у Обход блокировок только для доменов из списка (Blacklist).
