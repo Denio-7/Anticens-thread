@@ -1,5 +1,5 @@
         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Сервисы VPN (обновляется усилиями анонов)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Бесплатные сервисы VPN (обновляется усилиями анонов)**
         
 https://censortracker.org <br>
 Альтернативное Обходу блокировок Рунета расширение для браузеров, чтобы ходить на заблокированные сайты.
@@ -8,52 +8,57 @@ https://browsec.com <br>
 Недавно оживший прокси-плагин для браузеров.
 
 https://t.me/shadowsocksm <br>
-Альтернативный источник ключей к бесплатным серверам для программы OutlineVPN. Ограничения, надёжность и безопасность неизвестны.
+Ключи для OutlineVPN. Ограничения, надёжность и безопасность неизвестны.
 
-https://www.geonode.com/free-proxy-list/ <br>
-Ноунейм лист адресов бесплатных проксей. Можно использовать в Антизапрете.
-
-https://freevpnplanet.com <br>
-https://www.vpnbook.com <br>
 https://betternet.co <br>
-https://setupvpn.com <br>
-https://www.urban-vpn.com <br>
-Полностью бесплатный VPN сервис без ограничений по трафику и скорости. Для подключения не требуется регистрация и ввод личных данных. Прямо чудо чудесное. Подводные неизвестны.
-
-https://finevpn.org <br>
 https://touchvpn.net <br>
 https://www.amanvpn.com <br>
-https://freevpn4you.net <br>
-Бесплатный и безлимитный (пока что) VPN. Халява на время раскрутки сервиса.
-
 https://calyx.net <br>
-VPN от Джорджа Сороса. Бесплатно, безлимитно. Якобы приватно. Доступен для всех платформ.
-
-https://freevpn.us <br>
-Бесплатные конфиги VPN на 30 дней.
+https://www.urban-vpn.com <br>
+https://paladinvpn.com <br>
+https://finevpn.org <br>
+Безлимит. Много локаций. Доступно для всех платформ.
 
 https://brightvpn.com <br>
-https://paladinvpn.com <br>
-Бесплатный VPN с большим количеством локаций и высокой скоростью. Ограничения отсутствуют. Собирает очень много информации о тебе, но авторы в этом открыто признаются. VPN для тех, кому "скрывать нечего". Доступен только для windows, требует установки своего приложения.
+Безлимит. Много локаций. Доступно только для Windows.
 
-https://privadovpn.com <br>
-https://atlasvpn.com <br>
-VPN с 12 бесплатными локациями. Трафик ограничен 10 Гб в месяц. Доступен для всех платформ.
+https://freevpnplanet.com <br>
+Безлимит. 5 локаций. Доступно для всех платформ.
 
-https://www.itopvpn.com/ <br>
-Трафик ограничен 700 Мб в день. Доступен для пекарен.
+https://www.vpnbook.com <br>
+Конфиги PPTP, OpenVPN, OutlineVPN, Web Proxy. Доступно для всех платформ.
 
 https://www.vpngate.net <br>
-Бесплатные конфиги OpenVPN от University of Tsukuba. Трафик очень пристально логгируется. Низкая скорость.
+https://freevpn4you.net <br>
+Конфиги OpenVPN. Доступно для всех платформ.
+
+https://freevpn.us <br>
+Конфиги OpenVPN на 30 дней. Доступно для всех платформ.
+
+https://privadovpn.com <br>
+https://windscribe.com <br>
+Трафик ограничен 10 Гб в месяц. 12 локаций. Доступно для всех платформ.
+
+https://atlasvpn.com <br>
+Трафик ограничен 10 Гб в месяц. 3 локации. Доступно для всех платформ.
+
+https://www.itopvpn.com/ <br>
+Трафик ограничен 700 Мб в день. Доступно только для пекарен.
+
+https://setupvpn.com <br>
+Дневной лимит трафика. Доступно для всех платформ.
+
+https://www.geonode.com/free-proxy-list/ <br>
+Ноунейм лист адресов бесплатных проксей. Лучше использовать только в Антизапрете, имеются случаи подмены сайтов.
 
 https://finchvpn.com/free <br>
-Бесплатный OpenVPN. Время использования ограничено 24 часами.
+Конфиги OpenVPN и Wireguard на 24 часа. Доступно для всех платформ.
 
 https://www.freeopenvpn.org <br>
-Тоже бесплатные конфигурации OpenVPN. Ограничено время использования. Каждые 10 часов конфиги обновляются.
+Конфиги OpenVPN на 10 часов. Доступно для всех платформ.
 
 https://getlantern.org <br>
-VPN с 500 Мб бесплатного трафика в месяц. Авторы предупреждают об абсолютном отсутствии приватности.
+Трафик ограничен 500 Мб в месяц. Доступно для всех платформ.
 
 **Список платных прокси и VPN с дешёвыми помесячными тарифами:** <br>
 https://prostovpn.org <br>
@@ -67,7 +72,6 @@ https://outlineaccess.com <br>
 
 **Список заблокированых VPN:** <br>
 https://protonvpn.com <br>
-https://windscribe.com <br>
 https://mullvad.net <br>
 https://www.malwarebytes.com/vpn <br>
 https://www.mozilla.org/en-US/products/vpn/ <br>
