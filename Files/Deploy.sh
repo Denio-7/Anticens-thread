@@ -8,7 +8,7 @@ rm -rf /usr/bin/v2ray
 
 # Installing
 apt update -y
-apt install -y curl jq psmisc tar wget
+apt install -y curl jq psmisc tar wget xz-utils
 cat << EOF > /etc/resolv.conf
 nameserver 1.1.1.1
 nameserver 1.0.0.1
