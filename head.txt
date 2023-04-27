@@ -40,7 +40,7 @@ https://github.com/simple-2ch/thread/blob/main/alternatives.md
 За анонимностью в Тор. Даже [s]свой[/s] арендованный хостинг её не обеспечивает.
 
 [b]- Всё равно хочу свой VPN с блэкджеком, шлюхами и созданием в два клика мышкой.[/b]
-Простая инструкция без пердольства: https://github.com/simple-2ch/thread/blob/main/deploy.md
+ShadowsocksRust + Xray over gRPC без пердольства: https://github.com/simple-2ch/thread/blob/main/deploy.md
 
 [b]- Обход блокировок обновлений Windows без VPN.[/b]
 https://github.com/simple-2ch/thread/blob/main/winupdate.md
