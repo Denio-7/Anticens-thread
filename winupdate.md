@@ -12,7 +12,7 @@
 ![alt text](https://github.com/simple-2ch/thread/blob/main/Files/img/wu1.jpg?raw=true)
 - Если всё успешно, в консоле получаешь такой вывод: <br>
 ![alt text](https://github.com/simple-2ch/thread/blob/main/Files/img/wu2.jpg?raw=true)
-- Скачиваешь: https://github.com/simple-2ch/thread/raw/main/Files/ShadowsocksV2Ray.zip
+- Скачиваешь: https://github.com/simple-2ch/thread/raw/main/Files/ShadowsocksXray.zip
 - Извлекаешь содержимое архива, запускаешь Shadowsocks.exe, открывшееся окно закрываешь.
 - Копируешь строку: **`ss://bm9uZToxMjM0NTY3ODk@127.0.1.1:8035/#Windows+Update`**
 - В правом нижнем углу экрана должна появиться серая стрелка, кликаешь по ней правой кнопкой мыши.
@@ -25,4 +25,4 @@
 ssserver.exe: https://github.com/shadowsocks/shadowsocks-rust/releases/tag/v1.15.3 <br>
 nssm.exe: https://nssm.cc/download <br>
 Клиент Windows: https://github.com/shadowsocks/shadowsocks-windows/releases/latest (Shadowsocks-X.X.X.X.zip) <br>
-Плагин Windows: https://github.com/shadowsocks/v2ray-plugin/releases/latest (v2ray-plugin-windows-amd64-vX.X.X.tar.gz)
+Плагин Windows: https://github.com/teddysun/xray-plugin/releases/latest (xray-plugin-windows-amd64-vX.X.X.tar.gz )
