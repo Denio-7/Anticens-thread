@@ -17,6 +17,7 @@ https://calyx.net <br>
 https://www.urban-vpn.com <br>
 https://paladinvpn.com <br>
 https://finevpn.org <br>
+https://protonvpn.com <br>
 Безлимит. Много локаций. Доступно для всех платформ.
 
 https://brightvpn.com <br>
@@ -76,9 +77,3 @@ https://proxy6.net <br>
 
 https://outlineaccess.com <br>
 Анон рекламировал это в треде, как собственное поделие. 150 рублей в месяц на момент добавления, но есть возможность попробовать поабузить его через https://outlineaccess.com/ref/welcome где он обещал скидку 50% на первый месяц. Алсо, за 180-200 рублей в месяц можно и иностранную VPS арендовать.
-
-**Список заблокированых VPN:** <br>
-https://protonvpn.com <br>
-https://mullvad.net <br>
-https://www.malwarebytes.com/vpn <br>
-https://www.mozilla.org/en-US/products/vpn/ <br>
