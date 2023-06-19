@@ -25,8 +25,20 @@ VPS - это удалённый компьютер (сервер), через к
 
 **Готово!** Здесь https://browserleaks.com/ip должен увидеть адрес арендованного сервера. Черное окно закрываешь и подтверждаешь закрытие. Отправлять трафик других программ через созданный сервер можно с помощью этого: https://rutracker.org/forum/tracker.php?nm=proxifier Что-то не работает? Спрашивай в треде, прикладывая скриншоты. Если работает, тоже отпиши для статистики.
 
+**Настройка на Android** <br>
+Устанавливаешь: https://github.com/shadowsocks/shadowsocks-android/releases/latest (shadowsocks--universal-vX.X.X.apk) и плагин https://github.com/teddysun/xray-plugin-android/releases/latest (xray-plugin-universal-vX.X.X.apk). Далее перекидываешь свой ключ на смартфон, копируешь его. Открываешь приложение Shadowsocks, нажимаешь на + , выбираешь Импортировать из буфера обмена, кликаешь на строку сервера. Активный ключ пометится слева зелёной полоской. Нажимаешь на перечёркнутую стрелку. Приложение Shadowsocks имеет ещё много разных настроек, которые ты можешь изучить сам. 
+
+**Настройка на Linux** <br>
+Клиент с GUI для Линуксогоспод: https://github.com/spyophobia/shadowsocks-gtk-rs и плагин https://github.com/teddysun/xray-plugin/releases/latest (xray-plugin-linux-amd64-vX.X.X.tar.gz). Вы у мамы умненькие поэтому разберётесь самостоятельно. 
+
+**Настройка на MacOS** <br>
+Устанавливаешь: https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest и скачиваешь плагин https://github.com/teddysun/xray-plugin/releases/latest (для M1, M2 и т.д.: xray-plugin-darwin-arm64-vX.X.X.tar.gz) или (для Intel: xray-plugin-darwin-amd64-vX.X.X.tar.gz). Плагин нужно переименовать в xray и положить в директорию ~/Library/Application Support/ShadowsocksX-NG/plugins/ Подробнее об этом здесь: https://github.com/shadowsocks/ShadowsocksX-NG/wiki/SIP003-Plugin
+
+**Настройка на iOS** <br>
+Нет такой темы. Ждём информации от пользователей Apple GayPhone.
+
 P.S. <br>
-Для Android устанавливаешь: https://github.com/shadowsocks/shadowsocks-android/releases/latest (shadowsocks--universal-vX.X.X.apk) и плагин https://github.com/teddysun/xray-plugin-android/releases/latest (xray-plugin-universal-vX.X.X.apk). Далее перекидываешь свой ключ на смартфон, копируешь его. Открываешь приложение Shadowsocks, нажимаешь на + , выбираешь Импортировать из буфера обмена, кликаешь на строку сервера. Активный ключ пометится слева зелёной полоской. Нажимаешь на перечёркнутую стрелку. Приложение Shadowsocks имеет ещё много разных настроек, которые ты можешь изучить сам. Клиент с GUI для Линуксогоспод: https://github.com/spyophobia/shadowsocks-gtk-rs и плагин https://github.com/teddysun/xray-plugin/releases/latest (xray-plugin-linux-amd64-vX.X.X.tar.gz). Вы у мамы умненькие поэтому разберётесь самостоятельно. Если мучает паранойя, то можешь скачать необходимые программы с официальных источников или магазинов приложений, собрав всё самостоятельно. Пароль доступа случайно генерируется ядром линукса при развёртывании. Простой доступ к ключу получаешь только при завершении создания сервера в строке на красном фоне. При его потере, легче будет повторно выполнить вышеуказанную инструкцию с генерацией нового ключа.
+Если мучает паранойя, то можешь скачать необходимые программы с официальных источников или магазинов приложений, собрав всё самостоятельно. Пароль доступа случайно генерируется ядром линукса при развёртывании. Простой доступ к ключу получаешь только при завершении создания сервера в строке на красном фоне. При его потере, легче будет повторно выполнить вышеуказанную инструкцию с генерацией нового ключа.
 
 PuTTY: https://ru.wikipedia.org/wiki/PuTTY <br>
 Shadowsocks: https://github.com/shadowsocks/shadowsocks-rust <br>
