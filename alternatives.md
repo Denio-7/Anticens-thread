@@ -39,6 +39,9 @@ https://freevpn4you.net <br>
 https://freevpn.us <br>
 Конфиги OpenVPN на 30 дней. Доступно для всех платформ.
 
+https://tcpvpn.com <br>
+Конфиги OpenVPN и Outline до 1 недели. Доступно для всех платформ.
+
 https://privadovpn.com <br>
 https://windscribe.com <br>
 Трафик ограничен 10 Гб в месяц. 12 локаций. Доступно для всех платформ.
