@@ -11,6 +11,13 @@ GoodbyeDPI для Windows: <br>
 
 Посложнее здесь: https://github.com/ValdikSS/GoodbyeDPI
 
+Временный апдейт. Ожидаем нового релиза... 
+Обход блокировок протокола OpenVPN TCP (ProtonVPN и подобные) через черновую версию GoodbyeDPI
+Информация об этом тут: https://ntc.party/t/goodbyedpi-openvpn/2857
+Обновлённую версию выкачал отсюда: https://github.com/ValdikSS/GoodbyeDPI/actions/runs/4553054039
+https://github.com/simple-2ch/thread/raw/main/Files/goodbyedpi_x86_4048502.zip
+https://github.com/simple-2ch/thread/raw/main/Files/goodbyedpi_x86_64_4048502.zip
+
 zapret+dnscrypt для Linux (простая настройка относительно простоты линукса): 
 - Ставим dnscrypt-proxy. Это DNS-клиент, позволяющий пользоваться зашифрованными DNS протоколами.
 - Чтобы NetworkManager не перезаписывал каждый раз resolv.conf возвращая обратно DNS по-умолчанию, 
