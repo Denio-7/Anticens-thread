@@ -29,6 +29,9 @@ Firefox (разреши в приватных вкладках): https://addons.
 [b]ЕЩЁ БОЛЬШЕ СЕРВИСОВ VPN (обновляется усилиями анонов):[/b]
 https://github.com/simple-2ch/thread/blob/main/alternatives.md
 
+[b]- Обход блокировок обновлений Windows без VPN.[/b]
+https://github.com/simple-2ch/thread/blob/main/winupdate.md
+
 [b]- Не получается наебать опсоса на торренты через ваши впны![/b]
 На примере qBittorrent. Открываешь Настройки, раздел Соединение. В пункте Ограничения соединений указываешь Общее ограничение числа соединений: 10. Это необходимо для сохранения работоспособности VPN и устранения риска ограничений со стороны опсоса (проверено, что Мегафон/Йота и МТС обрывают дохуя многопоточные соединения из-за нагрузок на оборудование). Если нет острой необходимости, качай с 0:00 до 7:00 по местному времени. Почему так? 
 Поэтому: https://github.com/simple-2ch/thread/blob/main/about.md
@@ -41,9 +44,6 @@ https://github.com/simple-2ch/thread/blob/main/alternatives.md
 
 [b]- Всё равно хочу свой VPN с блэкджеком, шлюхами и созданием в два клика мышкой.[/b]
 ShadowsocksRust + Xray over gRPC без пердольства: https://github.com/simple-2ch/thread/blob/main/deploy.md
-
-[b]- Обход блокировок обновлений Windows без VPN.[/b]
-https://github.com/simple-2ch/thread/blob/main/winupdate.md
 
 Это шапка для переката: https://github.com/simple-2ch/thread/blob/main/head.txt
 
