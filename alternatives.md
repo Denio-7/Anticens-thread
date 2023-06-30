@@ -17,6 +17,7 @@ https://calyx.net <br>
 https://www.urban-vpn.com <br>
 https://paladinvpn.com <br>
 https://finevpn.org <br>
+https://riseup.net/en/vpn <br>
 https://protonvpn.com <br>
 Безлимит. Много локаций. Доступно для всех платформ.
 
@@ -49,7 +50,7 @@ https://windscribe.com <br>
 https://atlasvpn.com <br>
 Трафик ограничен 10 Гб в месяц. 3 локации. Доступно для всех платформ.
 
-https://www.itopvpn.com/ <br>
+https://www.itopvpn.com <br>
 Трафик ограничен 700 Мб в день. Доступно только для пекарен.
 
 https://setupvpn.com <br>
