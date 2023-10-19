@@ -9,14 +9,14 @@ GoodbyeDPI для Windows: <br>
 - Кликаешь Запустить обход блокировок.
 - Отписываешься в тред, если не работает. Ваше мнение очень важно для нас. 
 
-Посложнее здесь: https://github.com/ValdikSS/GoodbyeDPI
+Обход блокировок протокола OpenVPN TCP (ProtonVPN и подобные) через GoodbyeDPI: <br>
+- Нажимаешь логотип OpenVPN ![alt text](https://topersoft.com/images/openvpn.png) в главном окне программы 
+- Вводишь номер(а) порта куда подключается твой VPN по TCP
+- Твой VPN начинает работать, если РКН не заблокировали его по IP-адресу
+![alt text](https://topersoft.com/images/programs/gbdpi/03.png) <br>
+Дополнительная информация здесь: https://ntc.party/t/goodbyedpi-openvpn/2857
 
-Временный апдейт. Ожидаем нового релиза... 
-Обход блокировок протокола OpenVPN TCP (ProtonVPN и подобные) через черновую версию GoodbyeDPI
-Информация об этом тут: https://ntc.party/t/goodbyedpi-openvpn/2857
-Обновлённую версию выкачал отсюда: https://github.com/ValdikSS/GoodbyeDPI/actions/runs/4553054039
-https://github.com/simple-2ch/thread/raw/main/Files/goodbyedpi_x86_4048502.zip
-https://github.com/simple-2ch/thread/raw/main/Files/goodbyedpi_x86_64_4048502.zip
+Посложнее тут: https://github.com/ValdikSS/GoodbyeDPI
 
 zapret+dnscrypt для Linux (простая настройка относительно простоты линукса): 
 - Ставим dnscrypt-proxy. Это DNS-клиент, позволяющий пользоваться зашифрованными DNS протоколами.
